@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Fieldsight">
+  <rect width="64" height="64" rx="14" fill="#14233F"/>
+  <circle cx="28" cy="28" r="13" fill="none" stroke="#F5F7FA" stroke-width="5"/>
+  <path d="M37.5 37.5 48 48" stroke="#F5F7FA" stroke-width="5.5" stroke-linecap="round"/>
+  <path d="M22 28.5l4.2 4.2L34.5 24" fill="none" stroke="#3FD08F" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
